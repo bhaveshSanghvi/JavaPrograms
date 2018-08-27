@@ -1,6 +1,6 @@
 /*
 
-	Pattern 5:
+	Pattern 6:
 
 			  *
 			 * *
@@ -12,7 +12,7 @@
 
 */
 
-class Pattern5 {
+class Pattern6 {
 	public static void main(String[] args) {
 		
 	}

@@ -23,10 +23,13 @@ class Pattern5 {
 		int length = src.nextInt();
 
 		for (int i=length; i>1; i--) {
-			for (int j=i; j>1; j--) {
+			for (int j=i; j>1; j--) {	
 				System.out.print("  ");
 			}
 			for(int k=i; k<=length; k++) {
+				System.out.print("* ");
+			}
+			for(int l=i; l<length;l++) {
 				System.out.print("* ");
 			}
 			System.out.println();
