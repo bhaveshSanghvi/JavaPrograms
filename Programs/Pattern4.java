@@ -20,14 +20,12 @@ class Pattern4 {
 
 		for (int i=length; i>=1; i--) {
 			for (int j=i; j>1; j--) {
-				System.out.print(" ");
+				System.out.print("  ");
 			}
 			for (int k=i; k<=length;k++) {
-				System.out.print("*");
+				System.out.print(" *");
 			}
 			System.out.println();
 		}
-
-
 	}
 }
