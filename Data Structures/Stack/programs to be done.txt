@@ -1,0 +1,16 @@
+- stack using array
+- stack using linkedlist
+- check if an eqauation is valid or not? paranthesis problem
+- infix to prefix
+- infix to postfix
+- prefix to infix
+- prefix to postfix
+- postfix to infix
+- postfix to prefix
+- implement stack using queue
+- iterative tower of hanoi
+
+- reverse a stack using recursion
+- sort a stack using recursion
+- sort a stack using another stack
+- reverse a stack in O(n)

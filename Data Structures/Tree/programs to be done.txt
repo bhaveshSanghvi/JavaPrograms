@@ -1,0 +1,9 @@
+- basic tree
+- binary tree
+- binary search tree
+- AVL true
+- red black tree
+- trie
+- suffix tree
+- tree traversals - inorder, preorder, postorder
+- longest common ancestor

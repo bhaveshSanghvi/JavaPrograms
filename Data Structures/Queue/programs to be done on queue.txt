@@ -1,0 +1,6 @@
+- queue using array
+- circular queue using array
+- circular queue using linked list
+- queue using linked list
+- priority queue
+- implement stack using queue

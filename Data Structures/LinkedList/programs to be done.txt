@@ -1,0 +1,8 @@
+- singleyLinkedLIst
+- doubleyLinkedList
+- to check if a linked list is a palindrome
+- to check if there is a loop in linkedlist
+- reverse a linked list
+- sort a linked list
+- remove duplicated for a linked list
+- circular linked list
