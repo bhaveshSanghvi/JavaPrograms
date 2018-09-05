@@ -119,6 +119,18 @@ class LinkedList {
 		// still to be coded
 	}
 
+	void printSortedList() {
+
+	}
+
+	void sortList() {
+
+	}
+
+	void reverseList() {
+		
+	}
+
 	void printList() {
 		Node current = first;
 		if(!isEmpty()) {
