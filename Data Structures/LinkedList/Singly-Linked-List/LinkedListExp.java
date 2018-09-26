@@ -119,12 +119,12 @@ class LinkedList {
 		// still to be coded
 	}
 
-	void printSortedList() {
-
+	void printSortedList(int start, int end) {
+		
 	}
 
 	void sortList() {
-
+		
 	}
 
 	void reverseList() {
